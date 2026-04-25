@@ -1,0 +1,32 @@
+2026-04-25 23:15:13,991 [INFO] Scan interval overridden to 5s
+2026-04-25 23:15:13,992 [INFO] Live Scanner started. Interval: 5s | Log: results/live_signals.log
+2026-04-25 23:15:13,992 [INFO] Universe: 12 pairs | VIX pause: 40 | VIX reduce: 30
+2026-04-25 23:15:13,992 [INFO] === Scan #1 at 2026-04-25 17:45:13 UTC ===
+2026-04-25 23:15:19,247 [INFO] VIX: 18.71 | Price matrix: 227 rows x 25 cols
+2026-04-25 23:15:19,268 [INFO] Cointegrated pair: QQQ/XLK | p=0.0149 | beta=0.8090 | HL=7.7 days
+2026-04-25 23:15:19,279 [INFO] Cointegrated pairs found: 1
+2026-04-25 23:15:19,284 [INFO] No actionable signals this scan.
+2026-04-25 23:15:19,286 [INFO] Reached max_scans=1, stopping.
+2026-04-25 23:15:24,450 [INFO] Scan interval overridden to 5s
+2026-04-25 23:15:24,450 [INFO] Live Scanner started. Interval: 5s | Log: results/live_signals.log
+2026-04-25 23:15:24,450 [INFO] Universe: 12 pairs | VIX pause: 40 | VIX reduce: 30
+2026-04-25 23:15:24,450 [INFO] === Scan #1 at 2026-04-25 17:45:24 UTC ===
+2026-04-25 23:15:31,383 [INFO] VIX: 18.71 | Price matrix: 227 rows x 25 cols
+2026-04-25 23:15:31,407 [INFO] Cointegrated pair: QQQ/XLK | p=0.0149 | beta=0.8090 | HL=7.7 days
+2026-04-25 23:15:31,417 [INFO] Cointegrated pairs found: 1
+2026-04-25 23:15:31,422 [INFO] No actionable signals this scan.
+2026-04-25 23:15:31,422 [INFO] Sleeping 5s until next scan...
+2026-04-25 23:15:36,423 [INFO] === Scan #2 at 2026-04-25 17:45:36 UTC ===
+2026-04-25 23:15:36,827 [INFO] VIX: 18.71 | Price matrix: 227 rows x 25 cols
+2026-04-25 23:15:36,847 [INFO] Cointegrated pair: QQQ/XLK | p=0.0149 | beta=0.8090 | HL=7.7 days
+2026-04-25 23:15:36,857 [INFO] Cointegrated pairs found: 1
+2026-04-25 23:15:36,862 [INFO] No actionable signals this scan.
+2026-04-25 23:15:36,862 [INFO] Reached max_scans=2, stopping.
+2026-04-26 01:31:18,033 [INFO] Live Scanner started. Interval: 300s | Log: results/live_signals.log
+2026-04-26 01:31:18,033 [INFO] Universe: 12 pairs | VIX pause: 40 | VIX reduce: 30
+2026-04-26 01:31:18,033 [INFO] === Scan #1 at 2026-04-25 20:01:18 UTC ===
+2026-04-26 01:31:22,810 [INFO] VIX: 18.71 | Price matrix: 226 rows x 25 cols
+2026-04-26 01:31:22,837 [INFO] Cointegrated pair: QQQ/XLK | p=0.0206 | beta=0.8111 | HL=7.6 days
+2026-04-26 01:31:22,851 [INFO] Cointegrated pairs found: 1
+2026-04-26 01:31:22,857 [INFO] No actionable signals this scan.
+2026-04-26 01:31:22,857 [INFO] Reached max_scans=1, stopping.

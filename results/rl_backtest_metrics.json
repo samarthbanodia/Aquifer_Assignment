@@ -1,0 +1,17 @@
+{
+  "total_return_pct": -38.97,
+  "cagr_pct": -14.21,
+  "annual_vol_pct": 2.34,
+  "sharpe_ratio": -6.533,
+  "sortino_ratio": -7.733,
+  "calmar_ratio": -0.365,
+  "max_drawdown_pct": -38.97,
+  "max_dd_duration_days": 0,
+  "win_rate_pct": 20.2,
+  "num_trades": 1030,
+  "avg_trade_pnl": -20.12,
+  "avg_holding_days": 2.2,
+  "profit_factor": 0.46,
+  "total_cost_usd": 35667.95,
+  "final_nav": 61032.63
+}
