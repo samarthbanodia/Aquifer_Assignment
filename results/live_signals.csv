@@ -1,0 +1,1 @@
+timestamp,pair,ticker_a,ticker_b,direction,zscore,hedge_ratio,half_life_days,theoretical_edge_bps,confidence,spread,regime,vix,cointegration_pvalue
